@@ -4,4 +4,5 @@ All models are stored as zip archives that can be imported into [Rodin](http://w
 
 * [binary search algorithm](binary-search)
 * [controlling cars on a bridge](cars-on-bridge)
+* [unix file system](file-system)
 * [traffic light controller](traffic-light)
